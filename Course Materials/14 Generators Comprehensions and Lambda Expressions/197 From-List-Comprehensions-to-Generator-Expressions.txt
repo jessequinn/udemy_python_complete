@@ -1,0 +1,1 @@
+http://python-history.blogspot.fr/2010/06/from-list-comprehensions-to-generator.html

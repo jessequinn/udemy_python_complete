@@ -1,0 +1,1 @@
+https://nedbatchelder.com/code/modules/id3reader.html
